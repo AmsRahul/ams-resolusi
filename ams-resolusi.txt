@@ -1,2 +1,4 @@
 AMS resolusi
 - Konsisten belajar pemrograman
+- Membuat aplikasi WEB 
+- Membuat aplikasi android
