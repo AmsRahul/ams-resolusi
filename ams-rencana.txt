@@ -3,6 +3,10 @@ RENCANA BELAJAR SAYA
 - Javascript
   *ES6
   *Framework Javascript
+   ^Vue
+   ^React
 - Struktur Data Dasar
 - PHP
+   ^ Laravel
 - Kotlin & Flutter
+-Python
